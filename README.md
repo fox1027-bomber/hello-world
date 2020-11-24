@@ -2,4 +2,4 @@
 Just another repository
 
 
-HI HIMANS!
+HI HUMANS!
